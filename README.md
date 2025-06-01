@@ -17,7 +17,7 @@ PdSecure is distributed as a clean and safe `.exe` file. We take security seriou
 Please download PdSecure only from official sources:
 
 - [Official Website Under Development]()  
-- [GitHub Releases]([https://github.com/yourrepo/releases](https://github.com/Narasimha440/PDsecure/releases))
+- [GitHub Releases]([https://github.com/Narasimha440/PDsecure/releases])
 
 ---
 
