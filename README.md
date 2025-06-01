@@ -1,4 +1,4 @@
-# ![PdSecure Logo](logo.jpeg) PdSecure
+# ![PdSecure Logo](resize.jpeg) PdSecure
 
 **Professional PDF Protection Suite**  
 Securely encrypt your PDFs with military-grade AES-256 encryption, lightning-fast processing, and zero data retention — all with just a few clicks!
